@@ -1,0 +1,90 @@
+C:\Users\Luke Huneter\Desktop\FinalTextBasedGame\FinalTextBasedGame\FinalTextBasedGame\bin\Debug\net6.0\FinalTextBasedGame.exe
+C:\Users\Luke Huneter\Desktop\FinalTextBasedGame\FinalTextBasedGame\FinalTextBasedGame\bin\Debug\net6.0\FinalTextBasedGame.deps.json
+C:\Users\Luke Huneter\Desktop\FinalTextBasedGame\FinalTextBasedGame\FinalTextBasedGame\bin\Debug\net6.0\FinalTextBasedGame.runtimeconfig.json
+C:\Users\Luke Huneter\Desktop\FinalTextBasedGame\FinalTextBasedGame\FinalTextBasedGame\bin\Debug\net6.0\FinalTextBasedGame.dll
+C:\Users\Luke Huneter\Desktop\FinalTextBasedGame\FinalTextBasedGame\FinalTextBasedGame\bin\Debug\net6.0\FinalTextBasedGame.pdb
+C:\Users\Luke Huneter\Desktop\FinalTextBasedGame\FinalTextBasedGame\FinalTextBasedGame\obj\Debug\net6.0\FinalTextBasedGame.csproj.AssemblyReference.cache
+C:\Users\Luke Huneter\Desktop\FinalTextBasedGame\FinalTextBasedGame\FinalTextBasedGame\obj\Debug\net6.0\FinalTextBasedGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luke Huneter\Desktop\FinalTextBasedGame\FinalTextBasedGame\FinalTextBasedGame\obj\Debug\net6.0\FinalTextBasedGame.AssemblyInfoInputs.cache
+C:\Users\Luke Huneter\Desktop\FinalTextBasedGame\FinalTextBasedGame\FinalTextBasedGame\obj\Debug\net6.0\FinalTextBasedGame.AssemblyInfo.cs
+C:\Users\Luke Huneter\Desktop\FinalTextBasedGame\FinalTextBasedGame\FinalTextBasedGame\obj\Debug\net6.0\FinalTextBasedGame.csproj.CoreCompileInputs.cache
+C:\Users\Luke Huneter\Desktop\FinalTextBasedGame\FinalTextBasedGame\FinalTextBasedGame\obj\Debug\net6.0\FinalTextBasedGame.dll
+C:\Users\Luke Huneter\Desktop\FinalTextBasedGame\FinalTextBasedGame\FinalTextBasedGame\obj\Debug\net6.0\refint\FinalTextBasedGame.dll
+C:\Users\Luke Huneter\Desktop\FinalTextBasedGame\FinalTextBasedGame\FinalTextBasedGame\obj\Debug\net6.0\FinalTextBasedGame.pdb
+C:\Users\Luke Huneter\Desktop\FinalTextBasedGame\FinalTextBasedGame\FinalTextBasedGame\obj\Debug\net6.0\FinalTextBasedGame.genruntimeconfig.cache
+C:\Users\Luke Huneter\Desktop\FinalTextBasedGame\FinalTextBasedGame\FinalTextBasedGame\obj\Debug\net6.0\ref\FinalTextBasedGame.dll
+C:\Users\Luke Huneter\Desktop\FinalTextBasedGame - Copy\FinalTextBasedGame\FinalTextBasedGame\bin\Debug\net6.0\FinalTextBasedGame.exe
+C:\Users\Luke Huneter\Desktop\FinalTextBasedGame - Copy\FinalTextBasedGame\FinalTextBasedGame\bin\Debug\net6.0\FinalTextBasedGame.deps.json
+C:\Users\Luke Huneter\Desktop\FinalTextBasedGame - Copy\FinalTextBasedGame\FinalTextBasedGame\bin\Debug\net6.0\FinalTextBasedGame.runtimeconfig.json
+C:\Users\Luke Huneter\Desktop\FinalTextBasedGame - Copy\FinalTextBasedGame\FinalTextBasedGame\bin\Debug\net6.0\FinalTextBasedGame.dll
+C:\Users\Luke Huneter\Desktop\FinalTextBasedGame - Copy\FinalTextBasedGame\FinalTextBasedGame\bin\Debug\net6.0\FinalTextBasedGame.pdb
+C:\Users\Luke Huneter\Desktop\FinalTextBasedGame - Copy\FinalTextBasedGame\FinalTextBasedGame\obj\Debug\net6.0\FinalTextBasedGame.csproj.AssemblyReference.cache
+C:\Users\Luke Huneter\Desktop\FinalTextBasedGame - Copy\FinalTextBasedGame\FinalTextBasedGame\obj\Debug\net6.0\FinalTextBasedGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luke Huneter\Desktop\FinalTextBasedGame - Copy\FinalTextBasedGame\FinalTextBasedGame\obj\Debug\net6.0\FinalTextBasedGame.AssemblyInfoInputs.cache
+C:\Users\Luke Huneter\Desktop\FinalTextBasedGame - Copy\FinalTextBasedGame\FinalTextBasedGame\obj\Debug\net6.0\FinalTextBasedGame.AssemblyInfo.cs
+C:\Users\Luke Huneter\Desktop\FinalTextBasedGame - Copy\FinalTextBasedGame\FinalTextBasedGame\obj\Debug\net6.0\FinalTextBasedGame.csproj.CoreCompileInputs.cache
+C:\Users\Luke Huneter\Desktop\FinalTextBasedGame - Copy\FinalTextBasedGame\FinalTextBasedGame\obj\Debug\net6.0\FinalTextBasedGame.dll
+C:\Users\Luke Huneter\Desktop\FinalTextBasedGame - Copy\FinalTextBasedGame\FinalTextBasedGame\obj\Debug\net6.0\refint\FinalTextBasedGame.dll
+C:\Users\Luke Huneter\Desktop\FinalTextBasedGame - Copy\FinalTextBasedGame\FinalTextBasedGame\obj\Debug\net6.0\FinalTextBasedGame.pdb
+C:\Users\Luke Huneter\Desktop\FinalTextBasedGame - Copy\FinalTextBasedGame\FinalTextBasedGame\obj\Debug\net6.0\FinalTextBasedGame.genruntimeconfig.cache
+C:\Users\Luke Huneter\Desktop\FinalTextBasedGame - Copy\FinalTextBasedGame\FinalTextBasedGame\obj\Debug\net6.0\ref\FinalTextBasedGame.dll
+C:\Users\Luke Huneter\Desktop\FinalTextBasedGame - Backup\FinalTextBasedGame\FinalTextBasedGame\obj\Debug\net6.0\FinalTextBasedGame.csproj.AssemblyReference.cache
+C:\Users\Luke Huneter\Desktop\FinalTextBasedGame - Backup\FinalTextBasedGame\FinalTextBasedGame\obj\Debug\net6.0\FinalTextBasedGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luke Huneter\Desktop\FinalTextBasedGame - Backup\FinalTextBasedGame\FinalTextBasedGame\obj\Debug\net6.0\FinalTextBasedGame.AssemblyInfoInputs.cache
+C:\Users\Luke Huneter\Desktop\FinalTextBasedGame - Backup\FinalTextBasedGame\FinalTextBasedGame\obj\Debug\net6.0\FinalTextBasedGame.AssemblyInfo.cs
+C:\Users\Luke Huneter\Desktop\FinalTextBasedGame - Backup\FinalTextBasedGame\FinalTextBasedGame\obj\Debug\net6.0\FinalTextBasedGame.csproj.CoreCompileInputs.cache
+C:\Users\Luke Huneter\Desktop\FinalTextBasedGame - Backup\FinalTextBasedGame\FinalTextBasedGame\obj\Debug\net6.0\FinalTextBasedGame.dll
+C:\Users\Luke Huneter\Desktop\FinalTextBasedGame - Backup\FinalTextBasedGame\FinalTextBasedGame\obj\Debug\net6.0\refint\FinalTextBasedGame.dll
+C:\Users\Luke Huneter\Desktop\FinalTextBasedGame - Backup\FinalTextBasedGame\FinalTextBasedGame\obj\Debug\net6.0\FinalTextBasedGame.pdb
+C:\Users\Luke Huneter\Desktop\FinalTextBasedGame - Backup\FinalTextBasedGame\FinalTextBasedGame\bin\Debug\net6.0\FinalTextBasedGame.exe
+C:\Users\Luke Huneter\Desktop\FinalTextBasedGame - Backup\FinalTextBasedGame\FinalTextBasedGame\bin\Debug\net6.0\FinalTextBasedGame.deps.json
+C:\Users\Luke Huneter\Desktop\FinalTextBasedGame - Backup\FinalTextBasedGame\FinalTextBasedGame\bin\Debug\net6.0\FinalTextBasedGame.runtimeconfig.json
+C:\Users\Luke Huneter\Desktop\FinalTextBasedGame - Backup\FinalTextBasedGame\FinalTextBasedGame\bin\Debug\net6.0\FinalTextBasedGame.dll
+C:\Users\Luke Huneter\Desktop\FinalTextBasedGame - Backup\FinalTextBasedGame\FinalTextBasedGame\bin\Debug\net6.0\FinalTextBasedGame.pdb
+C:\Users\Luke Huneter\Desktop\FinalTextBasedGame - Backup\FinalTextBasedGame\FinalTextBasedGame\obj\Debug\net6.0\FinalTextBasedGame.genruntimeconfig.cache
+C:\Users\Luke Huneter\Desktop\FinalTextBasedGame - Backup\FinalTextBasedGame\FinalTextBasedGame\obj\Debug\net6.0\ref\FinalTextBasedGame.dll
+C:\Users\Luke Huneter\Desktop\FinalTextBasedGame - Try 2\FinalTextBasedGame\FinalTextBasedGame\obj\Debug\net6.0\FinalTextBasedGame.csproj.AssemblyReference.cache
+C:\Users\Luke Huneter\Desktop\FinalTextBasedGame - Try 2\FinalTextBasedGame\FinalTextBasedGame\obj\Debug\net6.0\FinalTextBasedGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luke Huneter\Desktop\FinalTextBasedGame - Try 2\FinalTextBasedGame\FinalTextBasedGame\obj\Debug\net6.0\FinalTextBasedGame.AssemblyInfoInputs.cache
+C:\Users\Luke Huneter\Desktop\FinalTextBasedGame - Try 2\FinalTextBasedGame\FinalTextBasedGame\obj\Debug\net6.0\FinalTextBasedGame.AssemblyInfo.cs
+C:\Users\Luke Huneter\Desktop\FinalTextBasedGame - Try 2\FinalTextBasedGame\FinalTextBasedGame\obj\Debug\net6.0\FinalTextBasedGame.csproj.CoreCompileInputs.cache
+C:\Users\Luke Huneter\Desktop\FinalTextBasedGame - Try 2\FinalTextBasedGame\FinalTextBasedGame\obj\Debug\net6.0\FinalTextBasedGame.dll
+C:\Users\Luke Huneter\Desktop\FinalTextBasedGame - Try 2\FinalTextBasedGame\FinalTextBasedGame\obj\Debug\net6.0\refint\FinalTextBasedGame.dll
+C:\Users\Luke Huneter\Desktop\FinalTextBasedGame - Try 2\FinalTextBasedGame\FinalTextBasedGame\obj\Debug\net6.0\FinalTextBasedGame.pdb
+C:\Users\Luke Huneter\Desktop\FinalTextBasedGame - Try 2\FinalTextBasedGame\FinalTextBasedGame\bin\Debug\net6.0\FinalTextBasedGame.exe
+C:\Users\Luke Huneter\Desktop\FinalTextBasedGame - Try 2\FinalTextBasedGame\FinalTextBasedGame\bin\Debug\net6.0\FinalTextBasedGame.deps.json
+C:\Users\Luke Huneter\Desktop\FinalTextBasedGame - Try 2\FinalTextBasedGame\FinalTextBasedGame\bin\Debug\net6.0\FinalTextBasedGame.runtimeconfig.json
+C:\Users\Luke Huneter\Desktop\FinalTextBasedGame - Try 2\FinalTextBasedGame\FinalTextBasedGame\bin\Debug\net6.0\FinalTextBasedGame.dll
+C:\Users\Luke Huneter\Desktop\FinalTextBasedGame - Try 2\FinalTextBasedGame\FinalTextBasedGame\bin\Debug\net6.0\FinalTextBasedGame.pdb
+C:\Users\Luke Huneter\Desktop\FinalTextBasedGame - Try 2\FinalTextBasedGame\FinalTextBasedGame\obj\Debug\net6.0\FinalTextBasedGame.genruntimeconfig.cache
+C:\Users\Luke Huneter\Desktop\FinalTextBasedGame - Try 2\FinalTextBasedGame\FinalTextBasedGame\obj\Debug\net6.0\ref\FinalTextBasedGame.dll
+C:\Users\Luke Huneter\Desktop\FinalTextBasedGame - Try 3\FinalTextBasedGame\FinalTextBasedGame\bin\Debug\net6.0\FinalTextBasedGame.exe
+C:\Users\Luke Huneter\Desktop\FinalTextBasedGame - Try 3\FinalTextBasedGame\FinalTextBasedGame\bin\Debug\net6.0\FinalTextBasedGame.deps.json
+C:\Users\Luke Huneter\Desktop\FinalTextBasedGame - Try 3\FinalTextBasedGame\FinalTextBasedGame\bin\Debug\net6.0\FinalTextBasedGame.runtimeconfig.json
+C:\Users\Luke Huneter\Desktop\FinalTextBasedGame - Try 3\FinalTextBasedGame\FinalTextBasedGame\bin\Debug\net6.0\FinalTextBasedGame.dll
+C:\Users\Luke Huneter\Desktop\FinalTextBasedGame - Try 3\FinalTextBasedGame\FinalTextBasedGame\bin\Debug\net6.0\FinalTextBasedGame.pdb
+C:\Users\Luke Huneter\Desktop\FinalTextBasedGame - Try 3\FinalTextBasedGame\FinalTextBasedGame\obj\Debug\net6.0\FinalTextBasedGame.csproj.AssemblyReference.cache
+C:\Users\Luke Huneter\Desktop\FinalTextBasedGame - Try 3\FinalTextBasedGame\FinalTextBasedGame\obj\Debug\net6.0\FinalTextBasedGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luke Huneter\Desktop\FinalTextBasedGame - Try 3\FinalTextBasedGame\FinalTextBasedGame\obj\Debug\net6.0\FinalTextBasedGame.AssemblyInfoInputs.cache
+C:\Users\Luke Huneter\Desktop\FinalTextBasedGame - Try 3\FinalTextBasedGame\FinalTextBasedGame\obj\Debug\net6.0\FinalTextBasedGame.AssemblyInfo.cs
+C:\Users\Luke Huneter\Desktop\FinalTextBasedGame - Try 3\FinalTextBasedGame\FinalTextBasedGame\obj\Debug\net6.0\FinalTextBasedGame.csproj.CoreCompileInputs.cache
+C:\Users\Luke Huneter\Desktop\FinalTextBasedGame - Try 3\FinalTextBasedGame\FinalTextBasedGame\obj\Debug\net6.0\FinalTextBasedGame.dll
+C:\Users\Luke Huneter\Desktop\FinalTextBasedGame - Try 3\FinalTextBasedGame\FinalTextBasedGame\obj\Debug\net6.0\refint\FinalTextBasedGame.dll
+C:\Users\Luke Huneter\Desktop\FinalTextBasedGame - Try 3\FinalTextBasedGame\FinalTextBasedGame\obj\Debug\net6.0\FinalTextBasedGame.pdb
+C:\Users\Luke Huneter\Desktop\FinalTextBasedGame - Try 3\FinalTextBasedGame\FinalTextBasedGame\obj\Debug\net6.0\FinalTextBasedGame.genruntimeconfig.cache
+C:\Users\Luke Huneter\Desktop\FinalTextBasedGame - Try 3\FinalTextBasedGame\FinalTextBasedGame\obj\Debug\net6.0\ref\FinalTextBasedGame.dll
+C:\Users\Luke Huneter\Desktop\FinalTextBasedGame - Try 4 - Copy\FinalTextBasedGame\FinalTextBasedGame\obj\Debug\net6.0\FinalTextBasedGame.csproj.AssemblyReference.cache
+C:\Users\Luke Huneter\Desktop\FinalTextBasedGame - Try 4 - Copy\FinalTextBasedGame\FinalTextBasedGame\obj\Debug\net6.0\FinalTextBasedGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luke Huneter\Desktop\FinalTextBasedGame - Try 4 - Copy\FinalTextBasedGame\FinalTextBasedGame\obj\Debug\net6.0\FinalTextBasedGame.AssemblyInfoInputs.cache
+C:\Users\Luke Huneter\Desktop\FinalTextBasedGame - Try 4 - Copy\FinalTextBasedGame\FinalTextBasedGame\obj\Debug\net6.0\FinalTextBasedGame.AssemblyInfo.cs
+C:\Users\Luke Huneter\Desktop\FinalTextBasedGame - Try 4 - Copy\FinalTextBasedGame\FinalTextBasedGame\obj\Debug\net6.0\FinalTextBasedGame.csproj.CoreCompileInputs.cache
+C:\Users\Luke Huneter\Desktop\FinalTextBasedGame - Try 4 - Copy\FinalTextBasedGame\FinalTextBasedGame\obj\Debug\net6.0\FinalTextBasedGame.dll
+C:\Users\Luke Huneter\Desktop\FinalTextBasedGame - Try 4 - Copy\FinalTextBasedGame\FinalTextBasedGame\obj\Debug\net6.0\refint\FinalTextBasedGame.dll
+C:\Users\Luke Huneter\Desktop\FinalTextBasedGame - Try 4 - Copy\FinalTextBasedGame\FinalTextBasedGame\obj\Debug\net6.0\FinalTextBasedGame.pdb
+C:\Users\Luke Huneter\Desktop\FinalTextBasedGame - Try 4 - Copy\FinalTextBasedGame\FinalTextBasedGame\bin\Debug\net6.0\FinalTextBasedGame.exe
+C:\Users\Luke Huneter\Desktop\FinalTextBasedGame - Try 4 - Copy\FinalTextBasedGame\FinalTextBasedGame\bin\Debug\net6.0\FinalTextBasedGame.deps.json
+C:\Users\Luke Huneter\Desktop\FinalTextBasedGame - Try 4 - Copy\FinalTextBasedGame\FinalTextBasedGame\bin\Debug\net6.0\FinalTextBasedGame.runtimeconfig.json
+C:\Users\Luke Huneter\Desktop\FinalTextBasedGame - Try 4 - Copy\FinalTextBasedGame\FinalTextBasedGame\bin\Debug\net6.0\FinalTextBasedGame.dll
+C:\Users\Luke Huneter\Desktop\FinalTextBasedGame - Try 4 - Copy\FinalTextBasedGame\FinalTextBasedGame\bin\Debug\net6.0\FinalTextBasedGame.pdb
+C:\Users\Luke Huneter\Desktop\FinalTextBasedGame - Try 4 - Copy\FinalTextBasedGame\FinalTextBasedGame\obj\Debug\net6.0\FinalTextBasedGame.genruntimeconfig.cache
+C:\Users\Luke Huneter\Desktop\FinalTextBasedGame - Try 4 - Copy\FinalTextBasedGame\FinalTextBasedGame\obj\Debug\net6.0\ref\FinalTextBasedGame.dll
